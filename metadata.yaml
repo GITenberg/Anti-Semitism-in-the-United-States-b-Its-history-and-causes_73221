@@ -1,0 +1,33 @@
+_repo: Anti-Semitism-in-the-United-States-b-Its-history-and-causes_73221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Levinger, Lee J. (Lee Joseph)
+    alias: Levinger, Lee Joseph
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '37025'
+    url: http://www.gutenberg.org/2009/agents/37025
+description: 'Originally presented as the author''s Ph. D. thesis, University of Pennsylvania
+  under the title: The causes of anti-Semitism in the United States.'
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73221'
+  lccn: '25018790'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/103072284
+pgterms:marc905: 20240215110015levinger
+pgterms:marc906: '1925'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bBloch Publishing Co., Inc., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- United States'
+- !lcsh 'Antisemitism -- United States'
+- !lcc 'E151'
+- GITenberg
+title: 'Anti-Semitism in the United States : $b Its history and causes'
+url: http://www.gutenberg.org/ebooks/73221
